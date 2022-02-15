@@ -1,4 +1,18 @@
 
+/* Général */
+
+.fondBlanc {
+    background-color: white;
+}
+
+.contourActivite {
+    border-radius: 25px
+}
+
+.contour {
+    box-shadow: 1px 1px 12px #F2F2F2;
+}
+
 /* section 1*/
 
 .section1 {
@@ -18,7 +32,6 @@
 
 .vignetteIndividuel {
 min-height: 25%;
-box-shadow: 1px 1px 12px #F2F2F2;
 border-radius: 25px;
 margin: 15px;
 }
@@ -33,6 +46,7 @@ border-radius: 25px 25px 0 0;
 .titreImage  {
 height: 10%;
 padding: 0 0 0 10px;
+margin: auto;
 }
 
 .doublePhoto {
